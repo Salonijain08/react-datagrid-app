@@ -1,0 +1,173 @@
+[
+    {
+      "id": 3,
+      "customer": "Amitabh Bachchan",
+      "lastSeen": "09/08/2020",
+      "orders": 5,
+      "totalSpent": 500.75,
+      "latestPurchase": "20/07/2020 12:15:30",
+      "news": true,
+      "segment": "VIP"
+    },
+    {
+      "id": 4,
+      "customer": "Priya Singh",
+      "lastSeen": "15/08/2020",
+      "orders": 2,
+      "totalSpent": 150.60,
+      "latestPurchase": "15/08/2020 09:12:45",
+      "news": false,
+      "segment": "Regular"
+    },
+    {
+      "id": 5,
+      "customer": "Ravi Kumar",
+      "lastSeen": "22/07/2020",
+      "orders": 3,
+      "totalSpent": 245.30,
+      "latestPurchase": "21/07/2020 14:35:20",
+      "news": true,
+      "segment": "VIP"
+    },
+    {
+      "id": 6,
+      "customer": "Sanya Gupta",
+      "lastSeen": "11/06/2020",
+      "orders": 4,
+      "totalSpent": 320.40,
+      "latestPurchase": "10/06/2020 16:45:10",
+      "news": false,
+      "segment": "Regular"
+    },
+    {
+      "id": 7,
+      "customer": "Rajesh Sharma",
+      "lastSeen": "05/05/2020",
+      "orders": 1,
+      "totalSpent": 80.15,
+      "latestPurchase": "05/05/2020 13:55:00",
+      "news": true,
+      "segment": "Regular"
+    },
+    {
+      "id": 8,
+      "customer": "Neha Verma",
+      "lastSeen": "18/08/2020",
+      "orders": 6,
+      "totalSpent": 740.90,
+      "latestPurchase": "18/08/2020 11:22:10",
+      "news": true,
+      "segment": "VIP"
+    },
+    {
+      "id": 9,
+      "customer": "Vikram Patel",
+      "lastSeen": "12/06/2020",
+      "orders": 2,
+      "totalSpent": 210.50,
+      "latestPurchase": "12/06/2020 14:00:20",
+      "news": false,
+      "segment": "Regular"
+    },
+    {
+      "id": 10,
+      "customer": "Pooja Joshi",
+      "lastSeen": "25/05/2020",
+      "orders": 3,
+      "totalSpent": 315.20,
+      "latestPurchase": "25/05/2020 10:30:00",
+      "news": true,
+      "segment": "Regular"
+    },
+    {
+      "id": 11,
+      "customer": "Rahul Desai",
+      "lastSeen": "29/07/2020",
+      "orders": 4,
+      "totalSpent": 425.30,
+      "latestPurchase": "28/07/2020 17:45:30",
+      "news": false,
+      "segment": "VIP"
+    },
+    {
+      "id": 12,
+      "customer": "Anjali Mehta",
+      "lastSeen": "10/07/2020",
+      "orders": 2,
+      "totalSpent": 200.25,
+      "latestPurchase": "10/07/2020 15:25:40",
+      "news": true,
+      "segment": "Regular"
+    },
+    {
+      "id": 13,
+      "customer": "Suresh Nair",
+      "lastSeen": "07/08/2020",
+      "orders": 5,
+      "totalSpent": 610.75,
+      "latestPurchase": "07/08/2020 16:35:45",
+      "news": true,
+      "segment": "VIP"
+    },
+    {
+      "id": 14,
+      "customer": "Deepika Iyer",
+      "lastSeen": "30/06/2020",
+      "orders": 2,
+      "totalSpent": 195.40,
+      "latestPurchase": "30/06/2020 11:50:30",
+      "news": false,
+      "segment": "Regular"
+    },
+    {
+      "id": 15,
+      "customer": "Aakash Bhatia",
+      "lastSeen": "03/07/2020",
+      "orders": 3,
+      "totalSpent": 290.85,
+      "latestPurchase": "03/07/2020 13:22:15",
+      "news": true,
+      "segment": "Regular"
+    },
+    {
+      "id": 16,
+      "customer": "Sonal Chauhan",
+      "lastSeen": "21/05/2020",
+      "orders": 1,
+      "totalSpent": 100.00,
+      "latestPurchase": "21/05/2020 09:10:50",
+      "news": false,
+      "segment": "Regular"
+    },
+    {
+      "id": 17,
+      "customer": "Kunal Kapoor",
+      "lastSeen": "19/07/2020",
+      "orders": 4,
+      "totalSpent": 455.70,
+      "latestPurchase": "19/07/2020 14:40:15",
+      "news": true,
+      "segment": "VIP"
+    },
+    {
+      "id": 18,
+      "customer": "Meera Reddy",
+      "lastSeen": "14/08/2020",
+      "orders": 2,
+      "totalSpent": 225.45,
+      "latestPurchase": "14/08/2020 12:35:30",
+      "news": false,
+      "segment": "Regular"
+    },
+    {
+      "id": 19,
+      "customer": "Pranav Shetty",
+      "lastSeen": "01/06/2020",
+      "orders": 1,
+      "totalSpent": 85.10,
+      "latestPurchase": "01/06/2020 10:25:10",
+      "news": true,
+      "segment": "Regular"
+   
+    }
+]  
